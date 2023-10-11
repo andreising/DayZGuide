@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DayZGuide</string>
+    <string name="onboard_title1">it is very easy to master the features of the game with us</string>
+    <string name="onboard_title2">we will help beginners to understand the features of the game</string>
+    <string name="crafts">crafts</string>
+    <string name="constructions">construction</string>
+    <string name="meal">meal</string>
+    <string name="armor">armor</string>
+    <string name="map">map</string>
+    <string name="back">back</string>
+    <string name="next">next</string>
+</resources>

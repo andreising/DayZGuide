@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GuíaDíaZ</string>
+    <string name="onboard_title1">Es muy fácil dominar las características del juego con nosotros.</string>
+    <string name="onboard_title2">Ayudaremos a los principiantes a comprender las características del juego.</string>
+    <string name="crafts">artesanía</string>
+    <string name="constructions">construcción</string>
+    <string name="meal">comida</string>
+    <string name="armor">armadura</string>
+    <string name="map">mapa</string>
+    <string name="back">atrás</string>
+    <string name="next">próximo</string>
+</resources>

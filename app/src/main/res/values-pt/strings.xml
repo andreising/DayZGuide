@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Guia DayZ</string>
+    <string name="onboard_title1">é muito fácil dominar os recursos do jogo conosco</string>
+    <string name="onboard_title2">ajudaremos os iniciantes a entender os recursos do jogo</string>
+    <string name="crafts">trabalhos manuais</string>
+    <string name="constructions">construção</string>
+    <string name="meal">refeição</string>
+    <string name="armor">armaduras</string>
+    <string name="map">mapa</string>
+    <string name="back">voltar</string>
+    <string name="next">próximo</string>
+</resources>

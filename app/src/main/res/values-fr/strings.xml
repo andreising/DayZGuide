@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JourZGuide</string>
+    <string name="onboard_title1">il est très simple de maîtriser les fonctionnalités du jeu avec nous</string>
+    <string name="onboard_title2">nous aiderons les débutants à comprendre les fonctionnalités du jeu</string>
+    <string name="crafts">artisanat</string>
+    <string name="constructions">construction</string>
+    <string name="meal">repas</string>
+    <string name="armor">armure</string>
+    <string name="map">carte</string>
+    <string name="back">dos</string>
+    <string name="next">suivant</string>
+</resources>

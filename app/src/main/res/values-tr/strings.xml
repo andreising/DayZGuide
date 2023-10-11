@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DayZ Rehberi</string>
+    <string name="onboard_title1">Oyunun özelliklerine bizimle hakim olmak çok kolay</string>
+    <string name="onboard_title2">yeni başlayanların oyunun özelliklerini anlamalarına yardımcı olacağız</string>
+    <string name="crafts">el sanatları</string>
+    <string name="constructions">yapı</string>
+    <string name="meal">yemek</string>
+    <string name="armor">zırh</string>
+    <string name="map">harita</string>
+    <string name="back">geri</string>
+    <string name="next">Sonraki</string>
+</resources>

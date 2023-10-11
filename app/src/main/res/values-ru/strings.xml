@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DayZGuide</string>
+    <string name="onboard_title1">с нами освоить особенности игры очень легко</string>
+    <string name="onboard_title2">поможем новичкам разобраться в особенностях игры</string>
+    <string name="crafts">ремесла</string>
+    <string name="constructions">строительство</string>
+    <string name="meal">еда</string>
+    <string name="armor">броня</string>
+    <string name="map">карта</string>
+    <string name="back">назад</string>
+    <string name="next">следующий</string>
+</resources>
